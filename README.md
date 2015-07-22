@@ -1,1 +1,1 @@
-# this is for storing the code i wrote for beginners python course on coursera for future reference
+# This is for storing the code I wrote for Beginner's Python course on Coursera. 
